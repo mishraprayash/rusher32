@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusher32&label=Profile%20views&color=0e75b6&style=flat" alt="rusher32" /> </p>
 
-- 🔭 I’m currently working on **Personal BLOG using NodeJs,Express and MongoDB.**
+- 🔭 I’m currently working on **Projects using NodeJs,Express and MongoDB.**
 
 - 🌱 I’m currently learning **Backend Development with NodeJs using Express along with MongoDB as a database.**
 
