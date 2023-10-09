@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Javascript,Nodejs, Express,MongoDB and manymore.**
 
-- 📫 How to reach me **mishprayash00@gmail.com**
+- 📫 How to reach me **mishraprayash00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
